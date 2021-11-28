@@ -1,3 +1,0 @@
-# Sky
-My first code
-
